@@ -46,3 +46,4 @@ The KES ranges shown are demonstration placeholders only, not Dr Ogalo's prices 
 ## Native Android Studio project
 
 A minimal Android WebView wrapper is included in `android/`. Open that folder directly in Android Studio. It includes the app manifest, Java activity, Gradle build files and bundled web assets. Android Studio will need internet access to resolve Gradle/Android plugins and an Android SDK (API 35) installed. Then use **Build → Build APK(s)**.
+# Prototype-II
